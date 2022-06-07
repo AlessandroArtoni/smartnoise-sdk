@@ -54,6 +54,7 @@ pip install smartnoise-synth
 ### MWEM
 
 ```python
+import snsynth
 import pandas as pd
 import numpy as np
 
